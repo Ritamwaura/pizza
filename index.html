@@ -94,16 +94,46 @@
 
     <div class="row">
       <div class="col-md-12">
-        <h2>Order Form</h2>
-        <form id=topping1>
-          <select id="size">
-            <option value="">---Choose Size---</option>
-              @@ -45,24 +57,12 @@ <h5>Choose Toppings</h5>
-          <input type="checkbox" id="toppingromantic" value="pepperoni"><strong>romantic</strong><br>
-          <input type="checkbox" id="toppingBrave" value="brave"><strong>brave</strong>
-          <input type="checkbox" id="toppingCheese" value="cheese"><strong>Cheese</strong><br>
-          <input type="submit"  value="Add">
-          <input type="submit" value="Add">
+        <h2>orders</h2>
+        <form>
+          <div id="forms">
+            <div id="form-space">
+              <label for="size">size</label>
+              <select class="form-control" name="">
+                <option value="small">small</option>
+                <option value="medium">medium</option>
+                <option value="large">large</option>
+
+              </select>
+
+            </div>
+
+            <div id="form-space">
+              <label for="crust">crust</label>
+              <select class="form-control" name="">
+                <option value="crispy">crispy</option>
+                <option value="stuffed">stuffed</option>
+                <option value="gluten-free">gluten-free</option>
+
+              </select>
+
+            </div>
+
+            <div id="form-space">
+              <label for="toppings">toppings</label>
+              <select class="form-control" name="">
+                <option value="tomato">tomato</option>
+                <option value="Mushrooms">Mushrooms</option>
+                <option value="onion">onion</option>
+                <option value="carrot">carrot</option>
+                <option value="meat">meat</option>
+
+              </select>
+
+            </div>
+
+          </div>
+
         </form>
 
       </div>

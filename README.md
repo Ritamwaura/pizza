@@ -10,8 +10,8 @@ html
 Js
 css
 
-####contact detail
-mwaurarita2019@gmail.com if any help
+# contact detail
+* mwaurarita2019@gmail.com if any help
 
 ##### License
 MIT lecense

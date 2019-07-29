@@ -61,8 +61,9 @@ h5 {
   color: white;
 }
 p{
-
-p {
   font-family: serif;
   font-weight: 600;
-  font-size: 20px;
+  font-size: 20px;}
+#contacts{
+    text-align: center;
+  }

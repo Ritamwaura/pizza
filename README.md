@@ -8,10 +8,8 @@ to access the web page just click the link https://github.com/Ritamwaura/pizza c
 jquery
 html
 Js
-css
-
-# contact detail
-* mwaurarita2019@gmail.com if any help
+# contacs
+ mwaurarita2019@gmail.com if any help
 
 ##### License
 MIT lecense

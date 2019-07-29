@@ -3,12 +3,15 @@ It's a pizza site trying to widen customer base where customer use   different s
 ## description
 the aplication enable the customer to order the pizza of her choice the description is well i]listed to guid the buyer
 to access the web page just click the link https://github.com/Ritamwaura/pizza choose the pizza of your choice  and enjoy to oder fill the forms and click delivery button.
+
 ### Technologies
 jquery
 html
 Js
 css
+
 ####contact detail
 mwaurarita2019@gmail.com if any help
+
 ##### License
 MIT lecense
